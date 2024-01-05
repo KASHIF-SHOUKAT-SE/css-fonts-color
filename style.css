@@ -1,0 +1,22 @@
+.paragraph{
+    font-style: italic;
+    font-size: 20px;
+     /* font-family: cursive;  */
+     font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    line-height: 20px;
+}
+#firstpara{
+    background-color: yellow;
+    color: brown;
+}
+#secondpara{
+    background-color: rgb(85, 95, 226);
+}
+#thirdpara{
+    background-color: rgba(96, 173, 137, 0.747);
+}
+#fourpara{
+    background-color: #ffab23;
+}
+
